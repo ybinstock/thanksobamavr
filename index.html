@@ -19,7 +19,7 @@
 
   <a-assets>
     <a-mixin id="orbit" attribute="rotation" to="0 360 0" repeat="indefinite" easing="linear" dur="3000"></a-mixin>
-    <!--<audio id="background-noise" src="audio2.mp3" preload="auto" autoplay="true" loop="true"></audio>-->
+    <audio id="background-noise" src="audio2.mp3" preload="auto" autoplay="true" loop="true"></audio>
     <a-mixin id="slide" geometry="primitive: plane; height: .8; width: .8" material="side: double;" ></a-mixin>
 
   </a-assets>
@@ -30,7 +30,7 @@
   <a-entity sound="src: #background-noise"></a-entity>
 
   <a-entity>
-    <a-camera camera wasd-controls="">
+    <a-camera camera wasd-controls-enabled="false">
       <a-entity raycaster="far: 30; objects: .intersectable" cursor="fuse: true; fuseTimeout: 500" geometry="primitive: ring; radiusOuter: 0.015;
                               radiusInner: 0.01; segmentsTheta: 32" material="color: #283644; shader: flat"
                 position="0 0 -0.75">
