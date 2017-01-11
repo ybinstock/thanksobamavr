@@ -24,10 +24,24 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48958334">
-              <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.7345361">
+              <caret line="19" column="61" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -40,6 +54,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/orbit.js" />
+        <option value="$PROJECT_DIR$/aframe.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -96,6 +113,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="thanksobamavr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thanksobamavr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thanksobamavr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slide-images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -185,19 +216,19 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32824427" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32824427" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -221,7 +252,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -232,7 +277,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -243,7 +302,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -254,7 +327,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -265,7 +352,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -276,7 +377,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -287,7 +402,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -298,7 +427,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -309,7 +452,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -320,7 +477,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -331,7 +502,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -342,7 +527,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -352,6 +551,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -360,12 +560,75 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/orbit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023923445">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aframe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9521531">
+          <caret line="298" column="0" selection-start-line="298" selection-start-column="0" selection-end-line="298" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img8.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/look-at-component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="1158" selection-start-line="0" selection-start-column="1158" selection-end-line="0" selection-end-column="1158" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img10.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slide-images/fuelstandards.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48958334">
-          <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.7345361">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#1;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#2;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#3;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#4;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#5;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#6;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#7;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#8;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#9;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#10;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#11;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#12;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#13;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#14;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a-entity#15;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#a-entity#16;n#a-scene#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
